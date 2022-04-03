@@ -5,7 +5,7 @@
 
 ![Lenilson GitHub stats](https://github-readme-stats.vercel.app/api?username=LenilsonJr27&show_icons=true&theme=radical)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia ⚠️
 
 <div style="display: inline-block"><br/> 
     <img align alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -14,4 +14,4 @@
     <img align alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br/>
 
-Programador Junior em treinamento👨‍💻!!!
+Programador Júnior em treinamento👨‍💻!!!
