@@ -9,6 +9,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lenilson-junior-540a5b22b/)
 
 ![Lenilson GitHub stats](https://github-readme-stats.vercel.app/api?username=LenilsonJr27&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" height="400">
 
 ## Tecnologias que eu uso no meu dia⚠️
 
