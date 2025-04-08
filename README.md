@@ -24,12 +24,13 @@
     <img align alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div><br/>
 
-Programador Júnior em treinamento👨‍💻!!!
+Programador em treinamento👨‍💻!!!
 <img width="100%" src="https://camo.githubusercontent.com/478c2e71786ef0b7594563a540d5469f19c2f6a7989567e7277addf3e80031e6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=00bfbf&amp;height=120&amp;section=footer" style="max-width: 100%;">
 
-<div align="center">
+<!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LenilsonJr27}/count.svg" /></p> 
 <br></div>
+-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
