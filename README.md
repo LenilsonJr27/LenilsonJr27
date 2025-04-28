@@ -5,9 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&amp&size=45&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Lenilson+Junior;I'm+21+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lenilsonjr_/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lenilson-junior-540a5b22b/)
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LenilsonJr27&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Lenilson Junior github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LenilsonJr27&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
@@ -16,7 +13,12 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LenilsonJr27&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Tecnologias e ferramentas que eu uso no meu dia⚠️
+## Minhas redes sociais 😎
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lenilsonjr_/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lenilson-junior-540a5b22b/)
+
+## Tecnologias e ferramentas que eu uso no meu dia ⚠️
 
 <div style="display: inline-block"><br/>
     <img align alt="Visual_Studio_Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
