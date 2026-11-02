@@ -1,8 +1,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&amp;height=120&section=header"/>
 
-<img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=LenilsonJr27&theme=react-dark&hide_border=true&color=00d668&line=00d668&point=8b007e" width="100%">
-
 ## Minhas redes sociais 😎
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lenilsonjr_/)
